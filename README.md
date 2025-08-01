@@ -1,4 +1,4 @@
-# Gita Chatbot (GPT-4o powered) 🕉️
+# Gita Chatbot 🕉️
 
 A chatbot using OpenAI GPT-4o API to answer questions inspired by teachings from the Bhagavad Gita.
 
@@ -15,7 +15,7 @@ python -m dotenv set OPENAI_API_KEY your_api_key
 
 ## Run
 ```bash
-python gita_chatbot_gpt4o.py
+python gita_chatbot.py
 ```
 
 ## Example Usage
